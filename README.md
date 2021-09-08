@@ -20,9 +20,9 @@ latent_utils.py               # Utility functions.
 pattern_gen.py                # Trigger optimization utility functions.
 vggface_pubfig_attack.py      # Example script to perform attack.
 data/                         # Directory to store data.
-    pubfig.h5                 # PubFig dataset in h5 format, excluded because of GitHub file size limit. 
+    data.txt                  # Put PubFig dataset in h5 format here, excluded because of GitHub file size limit. 
 models/                       # Directory to store models.
-    vggface.h5                # VGG-Face model in h5 format, excluded because of GitHub file size limit.
+    model.txt                 # Put VGG-Face model in h5 format here, excluded because of GitHub file size limit.
 ```
 
 ## Usage
