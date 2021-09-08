@@ -1,6 +1,6 @@
 # Latent Backdoor Attacks on Deep Neural Networks
 
-This is the documentation of the `Tensorflow/Keras` implementation of Latent Backdoor Attacks. Please see the paper for details [Latent Backdoor Attacks on Deep Neural Networks, CCS'19](https://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf).
+This is the documentation of the `Tensorflow/Keras` implementation of Latent Backdoor Attacks. Please see the paper for details [Latent Backdoor Attacks on Deep Neural Networks, CCS'19](https://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf). Please find our official website for this project [here](https://sandlab.cs.uchicago.edu/latent/).
 
 ## Dependencies
 
