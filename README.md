@@ -11,7 +11,7 @@ This is the documentation of the `Tensorflow/Keras` implementation of Latent Bac
 
 The code has been tested on `Python 3.7`.
 
-Click [here](https://people.cs.uchicago.edu/~huiyingli/files/data_model.zip) (933MB) to download example dataset and model.
+Click [here](https://people.cs.uchicago.edu/~huiyingli/files/data_models.zip) (933MB) to download example dataset and model.
 
 ## Directory Layout
 
