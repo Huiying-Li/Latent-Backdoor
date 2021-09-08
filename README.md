@@ -11,7 +11,7 @@ This is the documentation of the `Tensorflow/Keras` implementation of Latent Bac
 
 The code has been tested on `Python 3.7`.
 
-Click [here](https://people.cs.uchicago.edu/~huiyingli/files/data_models.zip) (933MB) to download example dataset and model.
+Click [here](https://people.cs.uchicago.edu/~huiyingli/files/data_models.zip) (890MB) to download example dataset and model.
 
 ## Directory Layout
 
@@ -43,7 +43,7 @@ The script does the following:
 6. Train Student model on clean Student data
 7. Test attack success rate on the Student model
 
-Click [here](http://sandlab.cs.uchicago.edu/latent/infected_student.h5) (706MB) to download a copy of infected student model resulted from the script.
+Click [here](https://sandlab.cs.uchicago.edu/latent/infected_student.h5) (706MB) to download a copy of infected student model resulted from the script.
 
 ## Citation
 
