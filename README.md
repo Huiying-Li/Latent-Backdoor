@@ -11,7 +11,7 @@ This is the documentation of the `Tensorflow/Keras` implementation of Latent Bac
 
 The code has been tested on `Python 3.7`.
 
-Click [here](https://sandlab.cs.uchicago.edu/latent/latent.zip) (890MB) to download example dataset and model.
+Click [here](https://people.cs.uchicago.edu/~huiyingli/files/data_model.zip) (933MB) to download example dataset and model.
 
 ## Directory Layout
 
@@ -20,7 +20,7 @@ latent_utils.py               # Utility functions.
 pattern_gen.py                # Trigger optimization utility functions.
 vggface_pubfig_attack.py      # Example script to perform attack.
 data/                         # Directory to store data.
-    pubfig.h5                 # PubFig dataset in h5 format, excluded because of GitHub file size limit.
+    pubfig.h5                 # PubFig dataset in h5 format, excluded because of GitHub file size limit. 
 models/                       # Directory to store models.
     vggface.h5                # VGG-Face model in h5 format, excluded because of GitHub file size limit.
 ```
